@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/gentearanea/learning-webpack#readme",
   "devDependencies": {
-    "live-server": "^1.2.1"
+    "live-server": "^1.2.1",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "webpack": "^4.41.2"
   }
 }
